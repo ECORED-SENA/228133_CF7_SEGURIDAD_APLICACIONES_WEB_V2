@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/228133_CF7_SEGURIDAD_APLICACIONES_WEB_V2/](https://ecored-sena.github.io/228133_CF7_SEGURIDAD_APLICACIONES_WEB_V2/)
 
 #
 

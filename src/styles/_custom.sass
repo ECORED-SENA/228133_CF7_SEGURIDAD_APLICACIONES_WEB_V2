@@ -1,19 +1,149 @@
 .banner-principal-decorativo
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
-    position: absolute
-    top: 40%
-    right: 50%
+    width: 27%
+    top: 32%
+    left: -9%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
-    position: absolute
-    top: 51%
-    right: 30%
-
-
+    width: 30%
+    top: 62%
+    right: 45%
 @keyframes float1
   0%
     transform: translateY(20px)
-
   100%
     transform: translateY(0px)
+
+
+.fondo-green
+  background: #F2FFFA
+  background-size: cover
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    background-size: cover
+    margin-inline: -1.4rem 
+.fondo-tema3
+  background: url('../assets/curso/temas/t3/fondo.png')
+  background-position: top center
+  background-size: 100% 90%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    background-size: cover
+    margin-inline: -1.4rem 
+
+
+.BG01, .BGR01
+  background-color: #E5FDF3
+.BG02
+  background-color: #FFF4D6    
+.BG03
+  background-color: #F3F9FF
+.BG04
+  background-color: #F38E1E
+.BG05
+  background-color: #F3C035
+.BGR06, .BG06
+  background-color: #fff
+.BG07
+  background-color: #6ACEAE
+.BG08
+  background-color: #C7EDE0
+.BGR09
+  background-color: #FFFAEF
+.BGR10
+  background-color: #FFD6DC
+  border: 2px solid #EA2440
+.BGR11
+  background-color: #FFE7D1
+  border: 2px solid #F38E1E
+.BGR12
+  background-color: #EBFFE6
+  border: 2px solid #5EBF4A
+.BG13
+  background-color: #F2FFFA
+.BG14
+  background-color: #2478D6
+.BG15
+  background-color: #1C64A4
+.BG16
+  background-color:#3D0A9E
+.BG17
+  background-color: #E5FFF7
+.BG18
+  background-color: #EA2440
+.BG19
+  background-color: #F9943A
+.BG20
+  background-color: #F2E141
+.BG21
+  background-color: #B2C42D
+.BG22
+  background-color: #5EBF4A
+.BG23
+  background-color: #BBEFDE
+
+.B-B1
+  border-bottom: 3px solid #D8BEC4 !important
+.B-B2
+  border: 5px solid #fff !important
+.B-3  
+  border-right: 1px solid #C9C9C9 !important
+  @media (max-width: 992px)
+    border-right: 0px solid #C9C9C9 !important
+    border-bottom: 1px solid #C9C9C9 !important
+
+  
+ul.lista-ul--color.color-terciario i
+  color: #F38E1E
+ul.lista-ul--color.color-verde i
+  color: #3BC192
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem
+
+.img01
+  top: -30%
+.img02
+  top: -40px
+.img01, .img02
+  position: relative
+.BGR06
+  border-radius: 25px
+.B-R5
+  border-radius: 5px
+
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #6ACEAE
+  border-color: #6ACEAE
+  background-size: 16px 20px
+.slyder-a__bullets__item
+  background-color: #B0C0D2
+  border-color: #B0C0D2
+.slyder-a__bullets__item--active
+  background-color: #6ACEAE
+  border-color: #6ACEAE
+.slyder-a__btn--sigt
+  background-image: url("../assets/componentes/arrow-white.svg")
+  transform: rotate( 0deg ) !important
+.slyder-a__btn--atrs
+  background-image: url("../assets/componentes/arrow-white.svg")
+  transform: rotate( 180deg ) !important
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  @media (max-width: $bp-max-xs)
+    width: 40px
+    height: 40px
+
+.bloque-texto-g.color-acento-botones 
+  background-color: #f9df99
+
+.tabla-a.tabla-1 table 
+  min-width: 830px
