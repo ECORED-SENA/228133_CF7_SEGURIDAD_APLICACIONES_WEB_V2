@@ -13,13 +13,14 @@
         p.mb-0 Igualmente, hay que tener en cuenta los marcos de referencia ante un incidente de seguridad de la información guiándose con la #[strong ISO 27035] que es la norma de gestión de incidentes de seguridad de la información, el ciclo de vida de la gestión y contradicción de un incidente informático, así:
       .col-md-4.col-8.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/temas/t1/img01.png" alt='')
-
-    .titulo-sexto.color-acento-contenido.my-4(data-aos="fade")
-      p.mb-0 #[b Figura 1.] Ciclos incidentes informáticos
     
     .row.justify-content-center.mb-5
-      .col-lg-10.BG01.p-5(data-aos="fade-down")
-        img(src="@/assets/curso/temas/t1/img02.svg" alt="La figura representa los ciclos de incidentes informáticos. El primer ciclo es la detección y el análisis; el segundo abarca los contenidos, la radicación y la recuperación; el tercero se enfoca en las actividades posteriores al incidente; y el cuarto es la preparación.")
+      .col-lg-10
+        .titulo-sexto.color-acento-contenido.my-4(data-aos="fade")
+          p.mb-0 #[b Figura 1.] Ciclos incidentes informáticos
+      .col-lg-10.BG01.p-lg-5.p-4(data-aos="fade-down")
+        img.d-lg-block.d-none(src="@/assets/curso/temas/t1/img02.svg" alt="La figura representa los ciclos de incidentes informáticos. El primer ciclo es la detección y el análisis; el segundo abarca los contenidos, la radicación y la recuperación; el tercero se enfoca en las actividades posteriores al incidente; y el cuarto es la preparación.")
+        img.d-lg-none.d-block(src="@/assets/curso/temas/t1/fig1-mob.svg" alt="La figura representa los ciclos de incidentes informáticos. El primer ciclo es la detección y el análisis; el segundo abarca los contenidos, la radicación y la recuperación; el tercero se enfoca en las actividades posteriores al incidente; y el cuarto es la preparación.")
       .col-lg-10.BG02.p-4(data-aos="fade-down")
         p El ciclo siempre será repetitivo, el mismo puede controlarse o auditarse mediante políticas de seguridad de la información y que la organización tenga un departamento en atención frente a los diferentes incidentes de seguridad como un CSIRT como lo indica el Conpes 3701 de 2011; es necesario recordar que dentro los pilares de la información están:
         ul.lista-ul--color.color-terciario.ms-4.fa-ul

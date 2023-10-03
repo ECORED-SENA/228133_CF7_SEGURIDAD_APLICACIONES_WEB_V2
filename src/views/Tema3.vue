@@ -11,45 +11,50 @@
 
     SlyderF.mb-5(columnas="col-lg-4 col-md-6" data-aos="fade-down")
       .BG06.pt-5.mx-2
-        .row.justify-content-center.BG05.B-R5
+        .row.justify-content-center.BG05.B-R5.t3
           .col-lg-7.col-md-7.col-6
-            img.img01(src="@/assets/curso/temas/t3/img01.png" alt='')
-        .row.justify-content-center.BG02.p-4.pb-4.B-R5
+            img.img01(src="@/assets/curso/temas/t3/img01.svg" alt='')
           .col-auto.img02.BGR06.p-2
             h4.mb-0.text-center.px-4 Principio 1
-          p.mb-0 Al recolectar la evidencia digital se deben tomar acciones para asegurarse de que no se modificará dicha evidencia.
+        .row.justify-content-center
+          .BG02.p-4.pb-4.B-R5.min-h170.pt-5
+            p.mb-0 Al recolectar la evidencia digital se deben tomar acciones para asegurarse de que no se modificará dicha evidencia.
       .BG06.pt-5.mx-2
-        .row.justify-content-center.BG07.B-R5
+        .row.justify-content-center.BG07.B-R5.t3
           .col-lg-7.col-md-7.col-6
-            img.img01(src="@/assets/curso/temas/t3/img02.png" alt='')
-        .row.justify-content-center.BG08.p-4.pb-4.B-R5
+            img.img01(src="@/assets/curso/temas/t3/img02.svg" alt='')
           .col-auto.img02.BGR06.p-2
-            h4.mb-0.text-center.px-4 Principio 2
-          p.mb-0 Cuando una persona necesite acceder a la evidencia digital original, se debe asegurar que sea un investigador forense competente.
+            h4.mb-0.text-center.px-4 Principio 2  
+        .row.justify-content-center 
+          .BG08.p-4.pb-4.B-R5.min-h170.pt-5
+            p.mb-0 Cuando una persona necesite acceder a la evidencia digital original, se debe asegurar que sea un investigador forense competente.
       .BG06.pt-5.mx-2
-        .row.justify-content-center.BG05.B-R5
+        .row.justify-content-center.BG05.B-R5.t3
           .col-lg-7.col-md-7.col-6
-            img.img01(src="@/assets/curso/temas/t3/img03.png" alt='')
-        .row.justify-content-center.BG02.p-4.pb-4.B-R5
+            img.img01(src="@/assets/curso/temas/t3/img03.svg" alt='')
           .col-auto.img02.BGR06.p-2
             h4.mb-0.text-center.px-4 Principio 3
-          p.mb-0 Toda la actividad relacionada con la recolección, acceso, almacenamiento o transferencia de evidencia digital debe estar documentada, preservada y disponible para ser revisada.
+        .row.justify-content-center
+          .BG02.p-4.pb-4.B-R5.min-h170.pt-5
+            p.mb-0 Toda la actividad relacionada con la recolección, acceso, almacenamiento o transferencia de evidencia digital debe estar documentada, preservada y disponible para ser revisada.
       .BG06.pt-5.mx-2
-        .row.justify-content-center.BG07.B-R5
+        .row.justify-content-center.BG07.B-R5.t3
           .col-lg-7.col-md-7.col-6
-            img.img01(src="@/assets/curso/temas/t3/img04.png" alt='')
-        .row.justify-content-center.BG08.p-4.pb-4.B-R5
+            img.img01(src="@/assets/curso/temas/t3/img04.svg" alt='')
           .col-auto.img02.BGR06.p-2
             h4.mb-0.text-center.px-4 Principio 4
-          p.mb-0 Un individuo es responsable por todas las acciones realizadas sobre la evidencia digital mientras esta se encuentre en su posesión.
+        .row.justify-content-center 
+          .BG08.p-4.pb-4.B-R5.min-h170.pt-5
+            p.mb-0 Un individuo es responsable por todas las acciones realizadas sobre la evidencia digital mientras esta se encuentre en su posesión.
       .BG06.pt-5.mx-2
-        .row.justify-content-center.BG05.B-R5
+        .row.justify-content-center.BG05.B-R5.t3
           .col-lg-7.col-md-7.col-6
-            img.img01(src="@/assets/curso/temas/t3/img05.png" alt='')
-        .row.justify-content-center.BG02.p-4.pb-4.B-R5
+            img.img01(src="@/assets/curso/temas/t3/img05.svg" alt='')
           .col-auto.img02.BGR06.p-2
             h4.mb-0.text-center.px-4 Principio 5
-          p.mb-0 Cualquier agencia que sea responsable de la recolección, acceso, almacenamiento o transferencia de evidencia digital es responsable de cumplir con los principios anteriores.
+        .row.justify-content-center 
+          .BG02.p-4.pb-4.B-R5.min-h170.pt-5
+            p.mb-0 Cualquier agencia que sea responsable de la recolección, acceso, almacenamiento o transferencia de evidencia digital es responsable de cumplir con los principios anteriores.
 
     
     .row.fondo-tema3.align-items-center.pt-5.mb-4

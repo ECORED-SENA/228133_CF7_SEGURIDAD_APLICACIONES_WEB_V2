@@ -204,35 +204,34 @@ export default {
         'https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3854.pdf',
     },
     {
-      referencia: 'Educalingo. (s.f.). <em>Autenticación</em>.',
+      referencia: 'Educalingo. (s.f.). Autenticación.',
       link: 'https://educalingo.com/es/dic-es/autenticacion',
     },
     {
       referencia:
-        'Erb, M. (2005). <em>Gestión de riesgo en la seguridad informática</em>.',
+        'Erb, M. (2005). Gestión de riesgo en la seguridad informática.',
       link:
         'https://protejete.wordpress.com/gdr_principal/amenazas_vulnerabilidades/',
     },
     {
       referencia:
-        'FGN. (2009). <em>Procedimientos forenses de policía judicial</em>. FGN.',
+        'FGN. (2009). Procedimientos forenses de policía judicial. FGN.',
     },
     {
       referencia:
-        'Gómez, A. (2006). <em>Enciclopedia de la seguridad informática</em>. RA-Ma.',
+        'Gómez, A. (2006). Enciclopedia de la seguridad informática. RA-Ma.',
     },
     {
-      referencia:
-        'Mifsud, E. (2012). <em>Introducción a la seguridad informática</em>.',
+      referencia: 'Mifsud, E. (2012). Introducción a la seguridad informática.',
       link:
         'http://recursostic.educacion.es/observatorio/web/es/software/software-general/1040-introduccion-a-la-seguridad-informatica',
     },
     {
-      referencia: 'OAS. (2001). <em>Convenio sobre la ciberdelincuencia</em>.',
+      referencia: 'OAS. (2001). Convenio sobre la ciberdelincuencia.',
       link: 'https://www.oas.org/juridico/english/cyb_pry_convenio.pdf',
     },
     {
-      referencia: 'Oracle. (2022). <em>Base de datos definida</em>.',
+      referencia: 'Oracle. (2022). Base de datos definida.',
       link: 'https://www.oracle.com/co/database/what-is-database/',
     },
   ],

@@ -48,13 +48,13 @@
     Separador
 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade")
-      h2 2.1.	Informática forense 
+      h2 2.1	Informática forense 
     
     .bloque-texto-g.color-acento-botones.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/t2/img07.jpg')})`}")
       .bloque-texto-g__texto.p-5(data-aos="fade-left")
-        p.mb-0 La informática forense es considerada la ciencia del futuro, la misma se realiza mediante la recopilación de #[i log] de auditoría del sistema o aplicación, o recuperar información borrada en los incidentes informáticos. En este proceso de incidentes se debe documentar y grabar los procedimientos e indicar los #[i software] forenses utilizados y procedimientos según los protocolos nacionales e internacionales
+        p.mb-0 La informática forense es considerada la ciencia del futuro, la misma se realiza mediante la recopilación de #[i log] de auditoría del sistema o aplicación, o recuperar información borrada en los incidentes informáticos. En este proceso de incidentes se debe documentar y grabar los procedimientos e indicar los #[i software] forenses utilizados y procedimientos según los protocolos nacionales e internacionales.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
@@ -74,7 +74,7 @@
     Separador
 
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade")
-      h2 2.2.	Tableros de control
+      h2 2.2	Tableros de control
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.col-8.mb-3.mb-lg-0(data-aos="fade-right")
@@ -82,8 +82,8 @@
       .col-lg-8(data-aos="fade-left")
         p Los tableros de control se utilizan en las auditorías forenses para realizar chequeos y sacar conclusiones rápidamente, estos sirven para realizar tomas de información mediante los tableros de control; uno de ellos podría ser el siguiente: 
         .row.justify-content-around.align-items-center.tarjeta.color-secundario.p-4
-          .col-3.col-sm-2.col-lg-2
-            img.px-lg-2(src="@/assets/curso/temas/img01.png" alt="")
+          .col-3.col-sm-2.col-lg-1.px-lg-1
+            img(src="@/assets/curso/temas/pdf.svg" alt="")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
@@ -136,8 +136,8 @@
             img(src="@/assets/curso/temas/t2/img11.png" alt="")
         p Dentro de la lista de chequeo se pueden realizar preguntas y reformular las mismas conforme a la organización, frente al manejo y operación de las aplicaciones #[i web] donde se marca solo un ítem entre sí o no y una observación general en caso de justificar, la misma del ítem seleccionado; de igual forma, se pueden agregar más aspectos a evaluar dependido el análisis o tipo de auditoría o control que requiere realizar el profesional. A continuación se presenta dicho formato:
         .row.justify-content-around.align-items-center.tarjeta.color-secundario.p-4
-          .col-3.col-sm-2.col-lg-2
-            img.px-lg-2(src="@/assets/curso/temas/img01.png" alt="")
+          .col-3.col-sm-2.col-lg-1.px-lg-1
+            img(src="@/assets/curso/temas/pdf.svg" alt="")
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0

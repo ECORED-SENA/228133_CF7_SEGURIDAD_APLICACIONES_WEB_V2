@@ -16,11 +16,11 @@
 
 
     .row.justify-content-star.align-items-center.mb-4
-      .col-md-7.order-md-1.order-2(data-aos="fade-right")
+      .col-lg-7(data-aos="fade-right")
         .cajon-b.color-acento-botones.p-3
           p Los informes se deben presentar claros, concisos y ordenados, los mismos deben ser exhaustivos respecto de las técnicas forenses utilizadas con conclusiones lógicas, bien argumentadas y en un lenguaje técnico, legal y explicativo para los demás.
           p.mb-0 #[b Lo anterior mediante el ASVS], que es un marco de referencia de requisitos de seguridad, controles funcionales y los no funcionales que se requieren al diseñar, desplegar y testear aplicaciones web. Así como con el OWASP top 10 que es el documento principal para tener en cuenta sobre los riesgos de seguridad más destacados en aplicaciones web, como se indica en la tabla a continuación:
-      .col-md-5.col-11.order-md-2.order-2.mb-md-0.mb-4(data-aos="fade-left")
+      .col-lg-5.col-11.mb-md-0.mb-4.d-lg-block.d-none(data-aos="fade-left")
         img(src="@/assets/curso/temas/t4/img01.png" alt='')
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-down")
@@ -57,13 +57,13 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-8.tarjeta.color-secundario.p-4.p-lg-3
         .row.justify-content-around.align-items-center
-          .col-3.col-sm-2.col-lg-2
-            img.px-lg-4(src="@/assets/curso/temas/img01.png" alt='')
-          .col
+          .col-3.col-sm-2.col-lg-1.px-lg-1
+            img(src="@/assets/curso/temas/pdf.svg" alt="")
+          .col-lg-10.col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
                 h4.text-white Factores de riesgo
-                p.text-white.mb-0 Para conocer los factores de riesgo que se asocian a la anterior tabla, se invita a dar clic en:
+                p.text-white.mb-0 Para conocer los factores de riesgo que se asocian a la anterior tabla, le invitamos a descargar el siguiente recurso.
               .col-sm-auto
                 a.boton.color-acento-botones(:href="obtenerLink('downloads/Factores_riesgo.pdf')" target="_blank")
                   span Descargar
