@@ -64,7 +64,7 @@
           p.mb-4(data-aos="fade") Además, toda evidencia digital es frágil y volátil, por lo que la misma se debe recolectar de manera adecuada para no ponerla en duda. A continuación, se relaciona el ciclo de la evidencia digital:
 
           .col-lg-6.col-md-10.mb-5(data-aos="fade-down")
-            img(src="@/assets/curso/temas/t3/img06.svg" alt="La figura ilustra la síntesis del componente relacionado con los incidentes informáticos que pueden ocurrir, tales como amenazas, riesgos y vulnerabilidades. Se consideran además tipos de amenazas web, planes de mejora y vulnerabilidades, según el Top 10 de OWASP. Para abordar estos incidentes de manera efectiva, se implementan auditorías forenses de forma continua")
+            img(src="@/assets/curso/temas/t3/img06.svg" alt="La figura muestra el ciclo de análisis forense para la recolección de evidencias. Primero está la adquisición, segundo, la preservación. Tercero, el análisis. Cuarto, la comunicación. Quinto, la presentación y, sexto, las conclusiones.")
 
           .cajon.color-acento-botones.p-4(data-aos="fade-down")
             p.mb-0 Cuando se habla de adquisición en el análisis forense, se hace con base en los parámetros del formato cadena de custodia quien halla, recolecta y embala la misma; la preservación nos indica la técnica con la herramienta de #[i software] forense utilizada para mantener la idoneidad de esta.

@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-8.order-md-1.order-2(data-aos="fade-right")
-        p Dentro del tratamiento de incidentes de seguridad digital en las aplicaciones web, parte de la normatividad la establece el Ministerio de Tecnologías de Información y las Comunicaciones de Colombia mediante la Resolución 500 del año 2021 Por la cual se establecen los lineamientos y estándares para la estrategia de seguridad digital y se adopta el modelo de seguridad y privacidad como habilitador de la política de gobierno digital”; por ello se debe recordar que al existir incidentes informáticos el Código Penal establece sanciones legales mediante la #[strong Ley 1273 de 2009].
+        p Dentro del tratamiento de incidentes de seguridad digital en las aplicaciones web, parte de la normatividad la establece el Ministerio de Tecnologías de Información y las Comunicaciones de Colombia mediante la Resolución 500 del año 2021 Por la cual se establecen los lineamientos y estándares para la estrategia de seguridad digital y se adopta el modelo de seguridad y privacidad como habilitador de la política de gobierno digital; por ello se debe recordar que al existir incidentes informáticos el Código Penal establece sanciones legales mediante la #[strong Ley 1273 de 2009].
         p.mb-0 Igualmente, hay que tener en cuenta los marcos de referencia ante un incidente de seguridad de la información guiándose con la #[strong ISO 27035] que es la norma de gestión de incidentes de seguridad de la información, el ciclo de vida de la gestión y contradicción de un incidente informático, así:
       .col-md-4.col-8.order-md-2.order-1.mb-md-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/temas/t1/img01.png" alt='')
